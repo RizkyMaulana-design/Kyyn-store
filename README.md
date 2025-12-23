@@ -28,19 +28,12 @@ Pengembangan sistem ini menerapkan metodologi pengembangan perangkat lunak **Mul
 
 Sistem divalidasi menggunakan standar **Unified Modeling Language (UML)** untuk menjamin konsistensi antara desain dan logika bisnis:
 
-* 
 **Use Case Diagram**: Memetakan interaksi aktor Pengguna, Admin, dan Sistem Pembayaran eksternal terhadap fungsionalitas sistem.
-
-
-* 
+ 
 **Activity Diagram**: Memvisualisasikan *workflow* operasional melalui format *swimlane* dari tahap pencarian hingga finalisasi transaksi.
 
-
-* 
 **Sequence Diagram**: Merinci pertukaran pesan antar objek sistem dalam urutan waktu tertentu untuk proses *checkout* dan pembayaran.
-
-
-* 
+ 
 **Class Diagram**: Mendefinisikan struktur statis sistem yang mencakup atribut data dan metode fungsional pada setiap kelas objek.
 
 
